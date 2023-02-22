@@ -2,7 +2,7 @@
 
 Dans cet exercice, vous devez : 
 
-- simuler deux architecture distinctes avec CPlantBox
+- simuler deux architecture distinctes avec CPlantBox (expliquez nous quels paramètres vous avez changés)
 - stocker ces architectures sous formt texte dans le dossier `/architecture`
 - ecrire un script (R ou python) qui permette de :
 
